@@ -1,0 +1,7 @@
+.build/
+.build-x86/
+build/
+.swiftpm/
+.DS_Store
+testdata/
+*.dmg
